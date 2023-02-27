@@ -1,0 +1,96 @@
+{
+    "periodo": "2º Semestre / 2022",
+    "curso": "Administração Bacharelado",
+    "codigoDeBarras": "23792.37905 980123.009876 190120.543210 4 876500000052073",
+    "dataContratacao": "2022-07-01",
+    "dataUltimoVencimento": "2023-07-01",
+    "taxaJuros": 0.09,
+    "multaMora": 0.02,
+    "valorTotal": 6248.76,
+    "parcelas": [
+        {
+            "numeroParcela": 1,
+            "status": "PAGO",
+            "dataVencimento": "2023-08-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 2,
+            "status": "PAGO",
+            "dataVencimento": "2023-08-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 3,
+            "status": "PAGO",
+            "dataVencimento": "2023-08-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 4,
+            "status": "PAGO",
+            "dataVencimento": "2023-08-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 5,
+            "status": "PAGO",
+            "dataVencimento": "2023-08-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 6,
+            "status": "PAGO",
+            "dataVencimento": "2023-08-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 7,
+            "status": "EM ATRASO",
+            "dataVencimento": "2023-02-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 25
+        },
+        {
+            "numeroParcela": 8,
+            "status": "EM DIA",
+            "dataVencimento": "2023-03-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 9,
+            "status": "EM DIA",
+            "dataVencimento": "2023-04-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 10,
+            "status": "EM DIA",
+            "dataVencimento": "2023-05-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 11,
+            "status": "EM DIA",
+            "dataVencimento": "2023-06-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        },
+        {
+            "numeroParcela": 12,
+            "status": "EM DIA",
+            "dataVencimento": "2023-07-01",
+            "valorParcela": 520.73,
+            "diasAtraso": 0
+        }
+    ]
+}
